@@ -1,4 +1,0 @@
-kwinternational
-===============
-
-Test git repository
