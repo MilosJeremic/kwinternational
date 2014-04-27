@@ -4,3 +4,5 @@ Opet neka izmena
 Jos jedna izmena sada
 Izmenaaaa......
 Napravio sam remote izmenu
+Neka izmena 1
+Opet izmena 2
