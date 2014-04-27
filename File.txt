@@ -7,3 +7,4 @@ Napravio sam remote izmenu
 Neka izmena 1
 Opet izmena 2
 Izmena od strane drugog user-a
+Jos jedna moja izmena drugi user
